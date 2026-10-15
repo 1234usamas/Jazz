@@ -1,0 +1,16 @@
+# Local Android SDK configuration
+local.properties
+
+# Gradle and Android build outputs
+.gradle/
+**/build/
+*.apk
+*.aab
+
+# Android Studio project state
+.idea/
+*.iml
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
